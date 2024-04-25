@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #874CCC;
+}
+
+.head{
+    color:red;
+ }
+
+
+ .png{
+    margin-right: 100px;
+    /* height:350px;
+    width:500px; */
+    /* float: none; */
+ }
+ 
+ 
+ .hd3{
+    /* border: solid;
+    color:white;
+    background-color: blue; */
+ }
+ .dev{
+    display: flex;
+ }
+ .dental {
+    flex: 2;
+ }
+ .description-img {
+    flex: 1;
+ }
+
